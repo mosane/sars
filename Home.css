@@ -36,7 +36,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -63,7 +63,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-2 {
@@ -91,7 +91,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-3 {
@@ -119,7 +119,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-4 {
@@ -147,7 +147,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-5 {
@@ -176,7 +176,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-6 {
@@ -204,7 +204,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-7 {
@@ -232,7 +232,7 @@
   text-transform: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 18px 13px 0 10px;
+  margin: 18px 15px 0 10px;
 }
 
 .u-section-1 .u-btn-8 {
@@ -249,8 +249,9 @@
 
 .u-section-1 .u-text-9 {
   font-weight: 700;
-  font-size: 3rem;
-  margin: 114px 0 60px 776px;
+  font-size: 2.25rem;
+  letter-spacing: normal;
+  margin: 114px 0 60px 764px;
 }
 
 @media (max-width: 1199px) {
@@ -346,7 +347,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1917px;
+    min-height: 1982px;
   }
 
   .u-section-1 .u-list-1 {
@@ -432,8 +433,8 @@
   }
 
   .u-section-1 .u-text-9 {
-    width: 368px;
-    margin: 29px auto 14px;
+    font-size: 3rem;
+    margin: 39px 26px 50px 60px;
   }
 }
 
@@ -595,10 +596,12 @@
   }
 
   .u-section-1 .u-text-9 {
-    font-size: 2.25rem;
-    width: auto;
+    font-size: 1.875rem;
     margin: 27px 0;
   }
 }.border-rounded {
  border-radius: 10px
+}
+.no-wrap {
+  white-space: nowrap;
 }
