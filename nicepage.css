@@ -34532,7 +34532,7 @@ a.u-link.u-text-hover-grey-90:hover {
   animation-duration: 1000ms;
   font-size: 0.625rem;
   font-weight: 700;
-  margin: 12px calc(((100% - 1140px) / 2) + 350px) 0 calc(((100% - 1140px) / 2) + 19px);
+  margin: 8px calc(((100% - 1140px) / 2) + 345px) 0 calc(((100% - 1140px) / 2) + 24px);
 }
 
 .u-header .u-btn-1 {
@@ -34550,7 +34550,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-search-1 {
   width: 349px;
   min-height: 38px;
-  margin: 7px calc(((100% - 1140px) / 2) + 304px) 0 auto;
+  margin: 11px calc(((100% - 1140px) / 2) + 304px) 0 auto;
 }
 
 .u-header .u-search-icon-1 {
@@ -34647,8 +34647,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-left: calc(((100% - 720px) / 2));
-    margin-right: calc(((100% - 720px) / 2));
+    margin-top: 10px;
+    margin-left: 55px;
+    margin-right: 55px;
   }
 
   .u-header .u-search-1 {
@@ -34714,13 +34715,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-left: calc(((100% - 340px) / 2));
-    margin-right: calc(((100% - 340px) / 2));
+    width: 314px;
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-header .u-search-1 {
     width: 327px;
-    margin-top: 98px;
+    margin-top: 96px;
     margin-right: calc(((100% - 340px) / 2));
   }
 
